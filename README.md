@@ -1,9 +1,11 @@
-# javafx-todo-application
-Todo Application is JavaFX desktop application to manage the todo list. It's just a basic application with some functionality that we can use in javafx applications
+# Contact-Application
+It is simple javafx desktop application to manage the contact
 
-1. It highlight the current todo item with and previous todo items as well
-2. Add new item functionality added
-3. Delete the existing item
-4. It use text file to store your todo list
-5. Context menu is available
-6. Menu functionality is available in the application.
+1. Contact will be saved in xml file
+2. Create new contact
+3. Update the existing contact
+4. Delete the existing contact if any
+5. Menu is used to perform CRUD operation
+6. Table is used to view the all contact by default table have sorting functionality.
+
+It's just created for learning purposes.
