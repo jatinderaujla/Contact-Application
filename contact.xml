@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<firstName>Arun</firstName>
+	<lastName>Jindal</lastName>
+	<phoneNumber>7458239568</phoneNumber>
+	<email>arun@gmail.com</email>
+	<notes>notes</notes>
+</contact>
+<contact>
+	<firstName>Ajay</firstName>
+	<lastName>Kumar</lastName>
+	<phoneNumber>7412589630</phoneNumber>
+	<email>ajay@gmail.com</email>
+	<notes>ajay notes</notes>
+</contact>
+<contact>
+	<firstName>Varun</firstName>
+	<lastName>Kumar</lastName>
+	<phoneNumber>7891234560</phoneNumber>
+	<email>varun@gmail.com</email>
+	<notes>varun notes</notes>
+</contact>
+</contacts>
